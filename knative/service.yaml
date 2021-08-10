@@ -6,7 +6,7 @@ spec:
   template:
     spec:
       containers:
-        - image: docker.io/csantanapr/knative-tekton
+        - image: docker.io/pmbanugo/knative-tekton
           imagePullPolicy: Always
           env:
             - name: TARGET
