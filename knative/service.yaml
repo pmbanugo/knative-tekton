@@ -10,4 +10,4 @@ spec:
           imagePullPolicy: Always
           env:
             - name: TARGET
-              value: Testing how this works with Knative.
+              value: Testing how this works with Knative
